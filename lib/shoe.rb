@@ -11,6 +11,7 @@ class Shoe
   end
   
   def condition
+    @condition = tattered
   end
   
   def cobble
